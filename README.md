@@ -1,16 +1,31 @@
-## Hi there 👋
+#🧑‍💻 [Thiago Lopes Pereira]
 
-<!--
-**thiaggolp/thiaggolp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analise de Dados · Pesquisa Economia · IA aplicada **
 
-Here are some ideas to get you started:
+## Olá, eu sou o Thiago 👋
+Sou economista e trabalho com dados e IA em **People Analytics**. Construo pipelines de dados, automatizo análises e desenvolvo soluções com LLMs que ajudam áreas de negócio a decidir com dados. Fora do trabalho, gosto de analisar conjuntura social, mercado de trabalho e desigualdade com dados públicos brasileiros.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🇬🇧 *Data engineer and economist working with data, applied AI and People Analytics in Brazil. I also analyze labor-market and social indicators using public data.*
+
+---
+
+## 🛠️ Stack
+
+| Área | Ferramentas |
+|---|---|
+| Linguagens | Python, SQL, R, JavaScript |
+| Dados | ETL e pipelines, data lake, Docker, Git, Linux, Jupyter |
+| IA | LLMs (OpenAI, Anthropic), RAG, vetorização de dados, engenharia de prompt |
+| Automação | n8n, Google Apps Script |
+| BI | Power BI, Tableau, Looker |
+| Documentação | Markdown, LaTeX |
+
+## 🎓 Formação e pesquisa
+
+- Bacharelado em Ciências Econômicas pela **UEL** (2020–2026), com foco em econometria, estatística e ciência de dados aplicada à economia.
+- Colaborador em projeto de ensino e pesquisa em desigualdade econômica (UEL).
+- Certificações Profissionais (IBM) em IA Generativa, Engenharia de Dados e Ciência de Dados.
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/thiago-lopesp)
