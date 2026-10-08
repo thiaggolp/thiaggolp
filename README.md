@@ -1,6 +1,6 @@
 ### 🧑🏾‍💻 Thiago Lopes Pereira
 
-## Olá, eu sou o Thiago 👋
+## Olá, eu sou o Thiago 👋🏾
 `Analise de Dados · Pesquisa Economia · IA aplicada`
 
 Sou economista e trabalho com dados e IA em **People Analytics**. Construo pipelines de dados, automatizo análises e desenvolvo soluções com LLMs que ajudam áreas de negócio a decidir com dados. Além disso, gosto de analisar conjuntura social, mercado de trabalho e desigualdade com dados públicos brasileiros.
