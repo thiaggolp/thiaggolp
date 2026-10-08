@@ -18,6 +18,8 @@ Sou economista e trabalho com dados e IA em **People Analytics**. Construo pipel
 <a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiaggolp&theme=github_dark" alt="Thiago's github stats" /> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiaggolp&theme=github_dark" alt="Thiago's top languages" />
+
 ## 🎓 Formação e pesquisa
 
 - Bacharelado em Ciências Econômicas pela **UEL** (2020–2026), com foco em econometria, estatística e ciência de dados aplicada à economia.
@@ -26,21 +28,3 @@ Sou economista e trabalho com dados e IA em **People Analytics**. Construo pipel
 
 ## 📫 Contato
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/thiago-lopesp" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-
-
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiaggolp&theme=github_dark" alt="Thiago's github stats" />
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiaggolp&theme=github_dark" alt="Thiago's top languages" />
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiaggolp&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiaggolp&theme=github_dark)
-
-
-## tasks
-
-- [x] Born
-- [x] Got a job
-- [x] Find life partner
-- [ ] Married
-- [ ] Have children
-- [ ] Die
