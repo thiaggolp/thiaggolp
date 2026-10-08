@@ -27,7 +27,43 @@ Sou economista e trabalho com dados e IA em **People Analytics**. Construo pipel
 
 ## 📫 Contato
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/thiago-lopesp" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thiaggolp&show_icons=true&locale=en" alt="" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiaggolp&" alt="" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact" alt="" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thiaggolp" alt="" /></a></p
+
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theabbie&theme=github_dark" alt="TheAbbie's github stats" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theabbie&theme=github_dark" alt="TheAbbie's top languages" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiaggolp&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiaggolp&theme=github_dark)
+
+<table>
+<thead>
+<tr>
+<th colspan="2">Quick Info</th>
+</tr>
+</thead>
+<tbody>
+<tr><th scope='row'>Name</th><td>Abhishek Choudhary</td></tr>
+<tr><th scope='row'>Born</th><td><time datetime="2002-01-11 08:00">11 January, 2002</time></td></tr>
+<tr><th scope='row'>Education</th><td>B.E.</td></tr>
+<tr><th scope='row'>Alma mater</th><td>Fr. C. Rodrigues Institute of Technology</td></tr>
+<tr><th scope='row'>Nationality</th><td>Indian</td></tr>
+<tr><th scope='row'>Location</th><td>Navi Mumbai, Maharashtra, India</td></tr>
+<tr><th scope='row'>Occupation</th><td>Member of Technical Staff at athenahealth</td></tr>
+<tr><th scope='row'>Experience</th><td>4 years</td></tr>
+<tr><th scope='row'>Skills</th><td>JavaScript, Node.js, Java, Spring Boot, Jest, LangChain4j, AI/LLM workflows, SEO</td></tr>
+</tbody>
+</table>
+
+## my octocat
+
+<img src="https://thiaggolp.github.io/files/octocat.png" alt="TheAbbie" width="200" height="200">
+
+## tasks
+
+- [x] Born
+- [x] Got a job
+- [x] Find life partner
+- [ ] Married
+- [ ] Have children
+- [ ] Die
