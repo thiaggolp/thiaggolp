@@ -9,7 +9,6 @@ Sou economista e trabalho com dados e IA em **People Analytics**. Construo pipel
 
 ---
 
-## 🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -57,7 +56,7 @@ Sou economista e trabalho com dados e IA em **People Analytics**. Construo pipel
 
 ## my octocat
 
-<img src="https://thiaggolp.github.io/files/octocat.png" alt="TheAbbie" width="200" height="200">
+<img src="C:\Users\thiag\Downloads\octocat-1791476290216.png" alt="TheAbbie" width="200" height="200">
 
 ## tasks
 
