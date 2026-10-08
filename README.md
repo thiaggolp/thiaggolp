@@ -15,7 +15,7 @@ Sou economista e trabalho com dados e IA em **People Analytics**. Construo pipel
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 
 ## 🎓 Formação e pesquisa
@@ -28,35 +28,13 @@ Sou economista e trabalho com dados e IA em **People Analytics**. Construo pipel
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/thiago-lopesp" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theabbie&theme=github_dark" alt="TheAbbie's github stats" />
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theabbie&theme=github_dark" alt="TheAbbie's top languages" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiaggolp&theme=github_dark" alt="Thiago's github stats" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiaggolp&theme=github_dark" alt="Thiago's top languages" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiaggolp&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiaggolp&theme=github_dark)
 
-<table>
-<thead>
-<tr>
-<th colspan="2">Quick Info</th>
-</tr>
-</thead>
-<tbody>
-<tr><th scope='row'>Name</th><td>Abhishek Choudhary</td></tr>
-<tr><th scope='row'>Born</th><td><time datetime="2002-01-11 08:00">11 January, 2002</time></td></tr>
-<tr><th scope='row'>Education</th><td>B.E.</td></tr>
-<tr><th scope='row'>Alma mater</th><td>Fr. C. Rodrigues Institute of Technology</td></tr>
-<tr><th scope='row'>Nationality</th><td>Indian</td></tr>
-<tr><th scope='row'>Location</th><td>Navi Mumbai, Maharashtra, India</td></tr>
-<tr><th scope='row'>Occupation</th><td>Member of Technical Staff at athenahealth</td></tr>
-<tr><th scope='row'>Experience</th><td>4 years</td></tr>
-<tr><th scope='row'>Skills</th><td>JavaScript, Node.js, Java, Spring Boot, Jest, LangChain4j, AI/LLM workflows, SEO</td></tr>
-</tbody>
-</table>
-
-## my octocat
-
-<img src="C:\Users\thiag\Downloads\octocat-1791476290216.png" alt="TheAbbie" width="200" height="200">
 
 ## tasks
 
